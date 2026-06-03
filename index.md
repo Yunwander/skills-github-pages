@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog!
-I am Yun
+title: Welcome to my blog! I am Yun
 ---
